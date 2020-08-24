@@ -299,6 +299,9 @@ p {
 	font-size: 2rem;
 	padding-top: 30px;
 }
+#skills .skill-item li{
+	list-style: none;
+}
 
 
 #skills .skill-item h2 {
@@ -594,6 +597,8 @@ p {
 		display: none;
 	}
 	
-
+    #skills .skill-item ul li{
+    	list-style: none;
+    }
 
 }
